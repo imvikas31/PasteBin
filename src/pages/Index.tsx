@@ -275,7 +275,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border/50 mt-16 py-8">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
-          <p>&copy; 2024 PasteBin. Built with ❤️ for easy text sharing.</p>
+          <p>&copy; 2024 PasteBin ||  Built with ❤️ By Vikas Singh For Easy Text Sharing || All rights reserved by Admin.</p>
         </div>
       </footer>
     </div>
